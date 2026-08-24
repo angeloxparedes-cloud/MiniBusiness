@@ -1,0 +1,274 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 9 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 4485
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 67.2 710 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 6 Tm /F2 16 Tf 22 TL (Project Proposal: Retail Sales Dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 694 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Data Analytics / Business Intelligence Project) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 680 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 1 Tm /F1 11 Tf 12 TL (Instructor: Jessie Melendres) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 668 cm
+Q
+q
+1 0 0 1 67.2 636 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (1. Project Identity) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 600 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Project Title:) Tj /F1 10.5 Tf ( RetailPulse: A Sales Dashboard for Identifying Top Products and Revenue-Driving) Tj T* (Categories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 577 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Chosen Focus Areas:) Tj /F1 10.5 Tf ( Problem Framing, Data Pipeline, SQL Basics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 554 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Repository Link:) Tj /F1 10.5 Tf ( ____________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 522 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (2. Problem Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 426 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 79.5 Tm /F1 10.5 Tf 15 TL (Retail businesses generate large volumes of transactional data every day, but without a structured way) Tj T* (to analyze it, decision-makers often rely on gut feeling rather than evidence when deciding which) Tj T* (products to restock, promote, or discontinue. Sales data is frequently scattered across spreadsheets or) Tj T* (point-of-sale exports, making it difficult to quickly answer basic but critical questions such as: Which) Tj T* (products generate the most revenue? Which categories are underperforming? Are there seasonal or) Tj T* (time-based sales patterns being missed?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 343 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 64.5 Tm /F1 10.5 Tf 15 TL (Manually aggregating this data in spreadsheets is slow, error-prone, and doesn't scale as transaction) Tj T* (volume grows. Existing off-the-shelf dashboard tools are often expensive or overly generic, not tailored) Tj T* (to a specific retail business's product hierarchy or reporting needs. This project addresses that gap by) Tj T* (building a purpose-built sales dashboard, backed by a proper SQL data pipeline, that surfaces) Tj T* (top-performing products and categories at a glance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 311 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (3. Target Users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 275 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Primary users:) Tj /F1 10.5 Tf ( Retail business owners and store/branch managers who need to make fast,) Tj T* (data-informed decisions on inventory, promotions, and product mix.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 237 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Secondary users:) Tj /F1 10.5 Tf ( Sales and marketing staff who want visibility into which categories are driving) Tj T* (performance, to better plan campaigns and stock priorities.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 184 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (This tool shifts users from manually compiling sales reports in spreadsheets to opening a live) Tj T* (dashboard that automatically surfaces top products, top categories, and revenue trends \227 reducing) Tj T* (reporting time from hours to seconds and enabling faster, more confident business decisions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 152 cm
+q
+.101961 .101961 .101961 rg
+BT 1 0 0 1 0 5 Tm /F2 13 Tf 18 TL (4. Data Source\(s\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 116 cm
+q
+BT 1 0 0 1 0 19.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Data Type:) Tj /F1 10.5 Tf ( Structured transactional data \(CSV/SQL tables\) \227 sales records, product catalog, and) Tj T* (category mapping.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 67.2 63 cm
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Source:) Tj /F1 10.5 Tf ( A public retail sales dataset \(e.g., a Kaggle retail/e-commerce transactions dataset\) covering) Tj T* (product-level sales across multiple categories and dates, used to simulate a real retail business's) Tj T* (transaction history.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+150 554 175 16 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 154 558.83 Tm
+(https\072\057\057github\056com\057angeloxparedes\055cloud\057MiniBusiness) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 11 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1812
+>>
+stream
+Gatm;=``=U&:XAWfU$cGe7&]>LX\Mu:=;_nFF:%S93r_ROq<g"!t\M_?f,-qOqeuY:!Kr!=Y?qo\)/67i8_`?h]rI%I0soL1LM3"F'sP8_"7if9eX4dYZ<Q;4V"aC;&uL3ch\s?`!^"B!t/hoS+dni:Qg"*iIb:Ki9qk2\bu+89YWKO>)`QqZ^&[%,uY?iA5_%efVS'6?T=*5)Z0Z%&_`,<;M><"PJX+2Cal_lH3(S".TL'n8lMN<W?B$r(55W6?In89Y@1hpI'+).FTkbGWQY`eERdZJ/d3g_G8Zj33jk<Q;%B_P12-^t5N5`Y$Cu>jYD8NnOr9(p_T7G(D0_Zu`9[u+*SdCADfG<8cR'6Vh7$NLLU>(-7WMITA5(&S64Y,BP"9BIg8IU^,u3)5"Y]?]gZ'sL60kS22[=7i-/^7ES.WkhT.d*8#q7<gWg&q"'$seFYprsF<X8ac5o8i&cON3SE=Mpq.-=nFB+imC\bFuR<D1^&3EKfBW?I&61q'^,g(X7:PNW8^6f2B)$:bBml6n'.+"2>.RPikm1G;ESFL%7of7f@VE-DEA:`Gf/?O"TWNj9,W[Y]nB4A"pNbK2E@:f'/>oXDp9*Z1NX4AZrd:6D\!/-:S?!:d&8)+a(p7`ig<'Lq'V9Wj?J_=Blr[9-K!=/@ZP*FXk3c3e"./Z,H\j&F80-=Y)\Z;+pYVdQn)Ym;rDp[H^J,R\t9Cp8TG\jQ''!o-!RJRBQ$f9n;t:4C`)\e-(\.r\N-MuM>ag"60WgT:ubURimi[:as;jW^AE5QW&JXm^TF0V"`!>g]Wf)sYUm:>mZ6BrWSI6jE4/R0ihTA/:,2;?Z^0'^gV<?8b;OZ_Kp^i7U[R#hP#5`R$S=KGQV>@t6,8QF*0cRF/)h_3HJ"R3%tYQ?kAAHBDmNaJpqTVa(OfQ])u20U3j&r/d8!XaP3+/tXtD4&hhV$,"j7#/8)#K.@<UAr$T]X!Q-,3Fu`]AA_q&7C#<*MEJ'mU-hBc/&IL5[Fn=;\4_g&:4^;lg>o\i1@cXIGkMo[R"rK\4<BI6-jG`]Gt?!'W6Y>A%iT\&(lffq/'MA\6M.Vl//i^>Ol%X5PK8g*!T6%qrJ9=jLr]H.IscXgR/c[S`0.(.4(I"qN>$%Cn/pC6A3a@_qHZ5T,klW)9Njs;WsiaWI$XR:^%nSIjZus%cHm@Y%ZZrc_'(nL#2:o>m\AlM>'.Jq_t9U%cM?-`]<YNp1e-qV8$p/r_`/PVMZgI'$9M;\!h6[n7Uj>9a^]h9><sH[$I:?opRC9"XPQL1_HZ:E$]N!`n?ICIgM#@h=Pb@Va_lR@28q,13LZ?d>pg<\)*Zl*5QLn4$.Qc`kIo00f(TfSe6ghp90;;@HaW\XB&-e.Blof?:l!Vj@?-%sA1;T)l*]FB-+u)r`>V6H#U^@DUSK,pB0)EM#P(A6NVaMU$^8C@GBXne`gLJ._,.q[LcP(CQ"=A6Z]r*?T1Mt=!L66fFm)e%jm%_,e*g\HPLpj%I0(6B]sIZsH3UJJD&("D:</+,gl<KccD.doPjh8hO;T-/E<>PaD05Dq$/,DE&+.\;mB9\lfK*k1e#m=Re2P(+X%GmR8.8fh^l"YbTJhoNS%dl!d-N/&%YB5YMI#'JhMU55Kh_Mu1MUnBn`W(lp4b$ESnN6\r\NrtGD*q7P!#%a_L)-:DR`&8[bX)PAe[/'>M\$7147%?Y8:M-U-I:Yhu@\IVH82<Ogd3<`e\@]pNrn>9]g8-Fl2r<VtQpMe$tbA>B53<a4@"!j04_V;pe0VfLQkfdApfc)/ZHq(=dGOGLF,"JW'O.J<Z_k~>
+endstream
+endobj
+11 0 obj
+<<
+/F1 6 0 R
+/F2 8 0 R
+>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000119 00000 n 
+0000000168 00000 n 
+0000000401 00000 n 
+0000004938 00000 n 
+0000005045 00000 n 
+0000005152 00000 n 
+0000005264 00000 n 
+0000005455 00000 n 
+0000007360 00000 n 
+trailer
+<<
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+7402
+%%EOF
