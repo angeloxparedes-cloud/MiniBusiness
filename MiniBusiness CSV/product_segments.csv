@@ -1,0 +1,41 @@
+product_id,product_name,category_name,units_sold,total_revenue,total_profit,profit_margin_pct,segment
+1,Sinandomeng Rice 5kg,Rice & Staples,788,204880,39400,19.23,Core Revenue Drivers
+2,Dinorado Rice 5kg,Rice & Staples,734,234880,44040,18.75,Core Revenue Drivers
+3,Rice 25kg Sack (NFA),Rice & Staples,380,589000,76000,12.9,High-Ticket Anchor Items
+4,Corned Beef 150g,Canned Goods,739,40645,12563,30.91,Everyday Margin Earners
+5,Sardines in Tomato Sauce 155g,Canned Goods,736,16192,5152,31.82,Everyday Margin Earners
+6,Century Tuna Flakes 180g,Canned Goods,768,44544,12288,27.59,Everyday Margin Earners
+7,Argentina Corned Beef 380g,Canned Goods,826,78470,20650,26.32,Core Revenue Drivers
+8,Liver Spread 85g,Canned Goods,894,24138,8046,33.33,Everyday Margin Earners
+9,Coca-Cola 1.5L,Beverages,810,60750,16200,26.67,Core Revenue Drivers
+10,Royal Orange 1.5L,Beverages,762,51816,13716,26.47,Core Revenue Drivers
+11,Nescafe 3-in-1 (stick),Beverages,836,7524,2508,33.33,Everyday Margin Earners
+12,Bottled Water 500ml,Beverages,707,10605,4949,46.67,Everyday Margin Earners
+13,San Miguel Beer (case),Beverages,380,296400,60800,20.51,High-Ticket Anchor Items
+14,Piattos 85g,Snacks & Biscuits,706,28240,8472,30.0,Everyday Margin Earners
+15,Nova Multigrain 78g,Snacks & Biscuits,682,21824,6820,31.25,Everyday Margin Earners
+16,SkyFlakes Crackers,Snacks & Biscuits,750,22500,7500,33.33,Everyday Margin Earners
+17,Rebisco Sandwich 10s,Snacks & Biscuits,660,27720,7920,28.57,Everyday Margin Earners
+18,Chippy 110g,Snacks & Biscuits,749,26964,8239,30.56,Everyday Margin Earners
+19,Safeguard Soap 90g,Personal Care & Hygiene,765,22950,7650,33.33,Everyday Margin Earners
+20,Colgate Toothpaste 150g,Personal Care & Hygiene,664,51792,15272,29.49,Everyday Margin Earners
+21,Palmolive Shampoo Sachet (12s),Personal Care & Hygiene,756,30240,11340,37.5,Everyday Margin Earners
+22,Head & Shoulders Sachet (12s),Personal Care & Hygiene,699,33552,12582,37.5,Everyday Margin Earners
+23,Pampers Diaper (per pc),Personal Care & Hygiene,657,11826,3942,33.33,Everyday Margin Earners
+24,Tide Powder Detergent 1kg,Household Supplies,741,68172,17784,26.09,Core Revenue Drivers
+25,Surf Detergent Bar,Household Supplies,761,15220,4566,30.0,Everyday Margin Earners
+26,Joy Dishwashing Liquid 250ml,Household Supplies,844,42200,12660,30.0,Everyday Margin Earners
+27,Zonrox Bleach 1L,Household Supplies,735,33075,9555,28.89,Everyday Margin Earners
+28,Trash Bag (10 pcs),Household Supplies,802,20050,8020,40.0,Everyday Margin Earners
+29,Eggs (per tray of 30),Frozen & Dairy,371,89040,16695,18.75,High-Ticket Anchor Items
+30,Magnolia Fresh Milk 1L,Frozen & Dairy,720,82800,18000,21.74,Core Revenue Drivers
+31,Purefoods Hotdog 1kg,Frozen & Dairy,766,145540,30640,21.05,Core Revenue Drivers
+32,Frozen Galunggong 1kg,Frozen & Dairy,754,124410,26390,21.21,Core Revenue Drivers
+33,Cheese Slice (10s),Frozen & Dairy,640,49920,14720,29.49,Everyday Margin Earners
+34,Pandesal (per piece),Bread & Bakery,776,2328,776,33.33,Everyday Margin Earners
+35,Loaf Bread (Tasty),Bread & Bakery,807,58104,13719,23.61,Core Revenue Drivers
+36,Spanish Bread (per piece),Bread & Bakery,830,7470,2490,33.33,Everyday Margin Earners
+37,Datu Puti Soy Sauce 1L,Condiments & Seasoning,796,39800,11940,30.0,Everyday Margin Earners
+38,Datu Puti Vinegar 1L,Condiments & Seasoning,756,33264,10584,31.82,Everyday Margin Earners
+39,Iodized Salt 500g,Condiments & Seasoning,778,10892,4668,42.86,Everyday Margin Earners
+40,Silver Swan Soy Sauce 385ml,Condiments & Seasoning,765,19890,6120,30.77,Everyday Margin Earners

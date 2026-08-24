@@ -1,0 +1,41 @@
+product_id,product_name,category_id,unit_cost,unit_price
+1,Sinandomeng Rice 5kg,1,210,260
+2,Dinorado Rice 5kg,1,260,320
+3,Rice 25kg Sack (NFA),1,1350,1550
+4,Corned Beef 150g,2,38,55
+5,Sardines in Tomato Sauce 155g,2,15,22
+6,Century Tuna Flakes 180g,2,42,58
+7,Argentina Corned Beef 380g,2,70,95
+8,Liver Spread 85g,2,18,27
+9,Coca-Cola 1.5L,3,55,75
+10,Royal Orange 1.5L,3,50,68
+11,Nescafe 3-in-1 (stick),3,6,9
+12,Bottled Water 500ml,3,8,15
+13,San Miguel Beer (case),3,620,780
+14,Piattos 85g,4,28,40
+15,Nova Multigrain 78g,4,22,32
+16,SkyFlakes Crackers,4,20,30
+17,Rebisco Sandwich 10s,4,30,42
+18,Chippy 110g,4,25,36
+19,Safeguard Soap 90g,5,20,30
+20,Colgate Toothpaste 150g,5,55,78
+21,Palmolive Shampoo Sachet (12s),5,25,40
+22,Head & Shoulders Sachet (12s),5,30,48
+23,Pampers Diaper (per pc),5,12,18
+24,Tide Powder Detergent 1kg,6,68,92
+25,Surf Detergent Bar,6,14,20
+26,Joy Dishwashing Liquid 250ml,6,35,50
+27,Zonrox Bleach 1L,6,32,45
+28,Trash Bag (10 pcs),6,15,25
+29,Eggs (per tray of 30),7,195,240
+30,Magnolia Fresh Milk 1L,7,90,115
+31,Purefoods Hotdog 1kg,7,150,190
+32,Frozen Galunggong 1kg,7,130,165
+33,Cheese Slice (10s),7,55,78
+34,Pandesal (per piece),8,2,3
+35,Loaf Bread (Tasty),8,55,72
+36,Spanish Bread (per piece),8,6,9
+37,Datu Puti Soy Sauce 1L,9,35,50
+38,Datu Puti Vinegar 1L,9,30,44
+39,Iodized Salt 500g,9,8,14
+40,Silver Swan Soy Sauce 385ml,9,18,26

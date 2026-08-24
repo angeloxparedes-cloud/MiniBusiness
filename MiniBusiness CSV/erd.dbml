@@ -1,0 +1,28 @@
+Table categories {
+  category_id int [pk]
+  category_name varchar(50)
+}
+
+Table products {
+  product_id int [pk]
+  product_name varchar(100)
+  category_id int [ref: > categories.category_id]
+  unit_cost decimal
+  unit_price decimal
+}
+
+Table transactions {
+  transaction_id int [pk]
+  transaction_date date
+  payment_type varchar(20)
+  transaction_total decimal
+}
+
+Table transaction_items {
+  item_id int [pk]
+  transaction_id int [ref: > transactions.transaction_id]
+  product_id int [ref: > products.product_id]
+  quantity int
+  unit_price decimal
+  subtotal decimal
+}
